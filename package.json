@@ -1,0 +1,20 @@
+{
+  "name": "qirat67-word-counter",
+  "version": "1.0.0",
+  "description": "A word counter is a simple tool that counts the number of words in a piece of text. It is commonly used for various purposes such as writing essays, articles, or reports where word count is important.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.20"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
